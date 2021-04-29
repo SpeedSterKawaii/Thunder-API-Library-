@@ -1,0 +1,4 @@
+﻿  hModule.cpp
+C:\Users\user\source\repos\ThunderLBI\ThunderLBI\hRetcheck.h(9,32): warning C4081: expected 'newline'; found '.'
+C:\Users\user\source\repos\ThunderLBI\ThunderLBI\hAddresses.h(100): warning C4715: 'pipes::luapipename': not all control paths return a value
+  ThunderLBI.vcxproj -> C:\Users\user\source\repos\ThunderLBI\Debug\ThunderLBI.dll
