@@ -2,10 +2,17 @@
 -- You are not allowed to skid this --
 warn("Thunder Hub - Script Executed")
 
+if saveinstance then
+    -- Do nothing
+else
+    hint("Please stop using some other exploit, use thunder to run thunderhub")
+    -- PS: "hint" is only available on Thunder.
+end)
+
 local Effect  = Instance.new("BlurEffect") -- Blur Effect
 Effect.Parent = game.Lighting
 
-local ThunderLoading = Instance.new("ScreenGui")
+local ThunderLoading = Instance.new("ScreenGui") 
 local Logo = Instance.new("ImageLabel")
 
 ThunderLoading.Name = "ThunderLoading"
