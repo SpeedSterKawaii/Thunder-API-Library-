@@ -86,30 +86,4 @@ void ReverseString(char* str)
 
   Interpreter:
   That is the engine basically, we would not want to go there unless your modding.
-
-  ------------ SOME MESSAGES TO SOME FAMOUS DEVELOPERS ------------
-
-  Rakion99:
-  Use axon please this lbi is not for you ok thank you (if you ss this your gay).
-
-  AzuLX:
-  Why did you download? Script-ware is better than this piece of lbi crap thingy.
-
-  Ares:
-  No one cares, go in the war and fight the developers you noob, (im kidding lol).
-
-  SkieHackerYT:
-  You are so op and kind of motivating me after all these sources not gonna lie lol.
-
-  Axstin(austin):
-  Hola, you may as well use your own dlls, also, what are you doing here? arent u ded jk.
-
-  CompiledCode:
-  Sorry you is can get out of heres, you is thank you, leave lbi source you please please.
-
-  DeepPain:
-  WHAT? Why are you here. Im kidding lol i made this lbi i got inspired by a few sources.
-
-  Appppon:
-  You left the community im so happy rn, bye noob, jk we sowwie! You failed 6th grade!11!
 */
